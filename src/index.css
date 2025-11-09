@@ -85,4 +85,5 @@ form * {
 .li {
   @apply shadow-[12px_12px_12px_rgba(0,0,0,0.1),_-10px_-10px_10px_white];
   transition: 0.3s;
+  min-width: 800px;
 }
